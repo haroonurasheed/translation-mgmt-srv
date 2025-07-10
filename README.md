@@ -121,7 +121,7 @@ These tests are built to ensure the reliability, performance, and correctness of
 
 ### 📌 **POSTMAN API Collection:**
 
-👉 [Download Postman Collection](screenshots/Translation Service.postman_collection.json)
+👉 [Download Postman Collection](screenshots/Translation_Service.postman_collection.json)
 
 
 
