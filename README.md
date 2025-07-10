@@ -83,9 +83,24 @@ php artisan serve
 
 ![Step 3](screenshots/step_3.png)
 
-5- Export all translations on basis of locals
+4- Export all translations on basis of locals
 
 ![Step 4](screenshots/step_4.png)
 
+5- Add new translation
 
-Note: Translation can add and update by other routes
+![Step 5](screenshots/step_5.png)
+
+6- Update translation
+
+![Step 6](screenshots/step_6.png)
+
+
+Here is a more professional and detailed version of your note:
+
+---
+
+### 📌 **Note:**
+
+These APIs are designed to be easily integrated with modern frontend frameworks such as **Vue.js**, **React**, **Angular**, and others. They return responses in **JSON format**, making it straightforward to consume and display data on the frontend. Additionally, the API endpoints follow RESTful standards, which ensures compatibility with a wide range of frontend and mobile applications.
+
