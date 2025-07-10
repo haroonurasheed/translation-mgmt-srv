@@ -30,6 +30,7 @@ Vue.js.
 
 
 git clone git@github.com:haroonurasheed/translation-mgmt-srv.git
+
 cd [repo]
 
 # Install Composer dependencies
