@@ -109,10 +109,6 @@ php artisan serve
 
 
 
-### 📌 **Note:**
-
-These APIs are designed to be easily integrated with modern frontend frameworks such as **Vue.js**, **React**, **Angular**, and others. They return responses in **JSON format**, making it straightforward to consume and display data on the frontend. Additionally, the API endpoints follow RESTful standards, which ensures compatibility with a wide range of frontend and mobile applications.
-
 
 
 ### 🧪 **Unit Testing & Coverage**
@@ -120,3 +116,16 @@ These APIs are designed to be easily integrated with modern frontend frameworks 
 These tests are built to ensure the reliability, performance, and correctness of the core translation APIs. The testing suite is written using **PHPUnit** and fully supports Laravel's built-in testing tools. It includes **Feature tests** for endpoint behavior and **Unit tests** for business logic.
 
 ![Test Results](screenshots/test_case.png)
+
+
+
+### 📌 **POSTMAN API Collection:**
+
+👉 [Download Postman Collection](screenshots/Translation Service.postman_collection.json)
+
+
+
+### 📌 **Note:**
+
+These APIs are designed to be easily integrated with modern frontend frameworks such as **Vue.js**, **React**, **Angular**, and others. They return responses in **JSON format**, making it straightforward to consume and display data on the frontend. Additionally, the API endpoints follow RESTful standards, which ensures compatibility with a wide range of frontend and mobile applications.
+
