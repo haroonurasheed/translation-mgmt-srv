@@ -87,6 +87,10 @@ php artisan serve
 
 ![Step 2](screenshots/step_2.png)
 
+2.2- Use token as bearer token in all APIs for Authorization, like below screenshot
+
+![Step 2.2](screenshots/step_2.2.png)
+
 3- Get translation details
 
 ![Step 3](screenshots/step_3.png)
