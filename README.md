@@ -96,9 +96,6 @@ php artisan serve
 ![Step 6](screenshots/step_6.png)
 
 
-Here is a more professional and detailed version of your note:
-
----
 
 ### 📌 **Note:**
 
