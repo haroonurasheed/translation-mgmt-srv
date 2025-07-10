@@ -64,3 +64,28 @@ DB_PASSWORD=your_pass
    php artisan db:seed
 
 
+
+## Usage
+
+php artisan serve  
+
+## Screenshots step by step
+
+1- Register user
+
+![Step 1](screenshots/step_1.png)
+
+2- Login user and get token
+
+![Step 2](screenshots/step_2.png)
+
+3- Get translation details
+
+![Step 3](screenshots/step_3.png)
+
+5- Export all translations on basis of locals
+
+![Step 4](screenshots/step_4.png)
+
+
+Note: Translation can add and update by other routes
